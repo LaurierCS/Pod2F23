@@ -9,20 +9,21 @@
 ╚═╝      ╚═════╝ ╚═════╝     ╚══════╝
 ```
 
-</div>
+# Routing:
+- run:
+`
+npm run dev
+`
 
-## Overview :sparkles:
-- 
+# Current utility:
+- Login / SignUp with google
+- Dashboard / Landing Page on login.
 
-## Development :computer:
-![GitHub](https://img.shields.io/github/license/LaurierComputingSociety/Pod2) 
-![GitHub pull requests](https://img.shields.io/github/issues-pr/LaurierComputingSociety/Pod2)
+# Next:
+- Actual email & password login
+- Username Setup
+- User Settings Setup
+- Other routes only available once logged in.
 
-### Requirements
-- 
-
-### Setup
-```sh
-$
-```
-
+# Service used:
+- FireBase
